@@ -1,6 +1,7 @@
 {
     "name": "@cspotcode/expect-stream",
     "version": "0.0.0",
+    "license": "MIT",
     "main": "./dist/expect-stream.js",
     "devDependencies": {
         "@tsconfig/node16": "^1.0.2",
